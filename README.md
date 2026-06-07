@@ -91,7 +91,7 @@ Logistic Regression
 
 ---
 
-## 📊 Model Comparison
+## Model Comparison
 
 | Model | Accuracy |
 |---------|---------|
@@ -104,13 +104,13 @@ TF-IDF with Logistic Regression outperformed the RNN model on the selected subse
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 This project implemented Sentiment Analysis using RNN and TF-IDF with Logistic Regression on 4,000 IMDb movie reviews. Experimental results showed that Logistic Regression achieved **86.75% accuracy** and outperformed the RNN model, which experienced overfitting and lower validation accuracy.
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - Use larger datasets
 - Implement LSTM 
@@ -120,7 +120,7 @@ This project implemented Sentiment Analysis using RNN and TF-IDF with Logistic R
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Soujanya Sharanagouda Ankalagi**
 
